@@ -40,7 +40,7 @@ Track your spending, filter by date and category, and visualize your data with i
 ```bash
 # Clone the repository
 git clone <your-repo-url>
-cd expense-tracker
+cd expense-tracker-app
 
 # Install dependencies
 npm install
